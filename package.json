@@ -1,0 +1,1 @@
+{"description":"Scoundrel, the single-player roguelike card game, over HTTP. A JSON API around the scoundrel-CLI engine.","engines":{"node":">=18"},"license":"MIT","main":"server.js","name":"scoundrel-api","scripts":{"start":"node server.js","test":"node --test test.js"},"version":"1.0.0"}
